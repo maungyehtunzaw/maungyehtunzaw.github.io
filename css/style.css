@@ -382,7 +382,6 @@ position:relative;
 .thumb-img{
  position:relative;  
 overflow:hidden;
-background:#000;
 }
 .thumb-img img{
 display:block;
